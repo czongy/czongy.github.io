@@ -590,6 +590,11 @@ section {
   width: 100%;
 }
 
+.soon-text {
+  top: 30%;
+  position: relative;
+}
+
 /* Contact */
 
 #contact {
