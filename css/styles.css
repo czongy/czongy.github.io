@@ -368,7 +368,13 @@ section {
   }
 }
 
-@media only screen and (max-height: 850px) {
+@media only screen and (max-height: 852px) {
+  .neon-intro-container {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 1400px) {
   .neon-intro-container {
     display: none;
   }
