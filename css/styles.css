@@ -413,6 +413,7 @@ section {
   font-size: 1rem;
   font-weight: normal;
   margin: 2rem;
+  margin-bottom: 4rem;
 }
 .description-box a {
   border: #228dff 0.125rem solid;
